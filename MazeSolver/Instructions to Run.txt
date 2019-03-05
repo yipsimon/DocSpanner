@@ -1,0 +1,21 @@
+This program is created using NetBeans IDE.
+You can either run the program by opening the project using NetBeans IDE or by command line.
+
+1. Running program using NetBeans
+- First, open NetBeans
+- Click File -> Open Project
+- Move to directory where the project is placed
+- Choose the project and Click open project
+- Click F6 to run project
+
+2. Running program using command line.
+- Enter [java -jar "<...yourdirectory...>\MazeSolver\dist\MazeSolver.jar"], not including []
+For example, [java -jar "C:\Desktop\MazeSolver\dist\MazeSolver.jar"]
+
+To read a file you need to input the absolute path to the file.
+For example, C:\Desktop\MazeSolver\samplemazes\input.txt  
+The samplemazes provided is within the MazeSolver file. 
+
+However, when using NetBeans to run program, you can access file within the MazeSolver by only entering the file name.
+
+Program written by Simon Yip.
